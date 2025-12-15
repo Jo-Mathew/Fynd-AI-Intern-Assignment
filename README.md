@@ -1,5 +1,15 @@
 # Fynd-AI-Intern-Assignment 1 & 2
 
+Required Dashboard Links:
+<ul>
+    <li><strong>User Dashboard:</strong> Users can select a star rating, write a review, submit it, and receive an AI-generated response. 
+        <br>Access it here: <a href="https://huggingface.co/spaces/Jo-Mathew/user-reviews-dashboard" target="_blank">User Dashboard Link</a>
+    </li>
+    <li><strong>Admin Dashboard:</strong> Admins can view all submissions live, including user ratings, reviews, AI-generated summaries, and recommended actions. Analytics are also provided. 
+        <br>Access it here: <a href="https://huggingface.co/spaces/Jo-Mathew/admin-feedback-dashboard" target="_blank">Admin Dashboard Link</a>
+    </li>
+</ul>
+
 <h1>Task 1: Yelp Review Rating Prediction</h1>
 
 <h2>Overview</h2>
