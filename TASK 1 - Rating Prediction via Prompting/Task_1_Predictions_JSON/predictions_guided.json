@@ -1,0 +1,402 @@
+[
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive experience with good food, friendly service, and quality drinks; also noted as great for happy hour and day-drinking."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely high praise for the crawfish etouffee, considered the best outside of Louisiana."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "Regulars enjoy the good, filling food, but note it's typical for a strip mall pizza place."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative experience due to perceived dishonesty and attempt to overcharge for a simple fix."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Enthusiastically positive, highlighting amazing food and multiple visits, recommending it highly."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Overall positive experience with good location, price, parking, and clean rooms, despite minor noise issues."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Very positive for top seafood, good happy hour, and late-night food, though service can be inconsistent."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Enthusiastic praise for both ramen and boba tea, calling it \"awesome.\""
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Highly positive, describing it as a great favorite place with awesome food and generous portions."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Very negative experience due to consistently poor food quality and tiny portions, leading to a decision not to return."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive experience with good food, efficient service for a large group, and reasonable pricing."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, highlighting great atmosphere, accommodating staff, excellent prices, and a fun experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Short but strong praise, using an iconic reference to convey excellence."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive overall for competitive prices, wide selection, convenient hours, and specific unique items, despite minor issues with deli staff and parking."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive experience, highlighting exceptional help and excellent service, leading to strong gratitude and recommendation."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "Mixed to negative, with the burger being just \"okay\" and other items like fries and beverages being overpriced and unimpressive."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "Mixed to negative; while acknowledging quality, the store is too high-end for the reviewer and a specific negative experience with service leads to disappointment."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Informative and implicitly positive, highlighting a useful and good option for calorie-conscious diners."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Enthusiastic praise for great pizza and an awesome appetizer."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive review, highlighting the airport's convenience and efficiency for specific travel needs."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Very positive for the fantastic burger and improved fries, with only minor suggestions for improvements in drinkware."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Enthusiastic praise for great Cajun food, consistent quality, friendly staff, fantastic value, and being a \"gem\" for seafood."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Highly negative experience due to rude staff, overpriced services, uncomfortable heat, and malfunctioning equipment."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive experience with extremely helpful staff, good amenities, and fantastic pool, despite minor issues with room noise and banquet food taste."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Enthusiastically positive, praising the fresh, hot, delicious food, friendly service, and overall great experience, planning to return."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive experience, satisfied with perfectly cooked food, refreshing drink, and good value for a filling meal."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Strongly negative due to consistently high prices."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Very positive experience with exceeded expectations, good happy hour, excellent value on meals, and fast, friendly service."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "Mixed to negative, with consistently out-of-service equipment, strange staff, and higher prices, balanced only by short wait times."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Severely negative experience due to extremely poor and slow service, which overshadowed the \"fine\" food, leading to a decision not to return."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative experience due to bland, dry, and poor-quality food, leading to strong disappointment and a decision to never return."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative, detailing a highly frustrating and confusing experience with non-standard gas pumps and a decision to never return."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "Mixed, with highly rated pulled pork and an intent to return, but negatives regarding location and an unimpressive side dish."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Highly enthusiastic and positive, describing it as a \"cutest place ever\" with great breakfast and coffee, full of quirky charm."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, highlighting exceptional cleanliness, efficiency, fresh food, and friendly staff, making it a standout Subway location."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Highly positive, praising the shop's family-like, friendly, and unintimidating atmosphere with skilled tattooers, recommending it strongly."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, declaring them the \"best sandwiches ever tasted\" with perfect ingredients and bread."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "Mixed to positive, with high praise for the chicken and waffles and an intent to return, but disappointment with portion sizes for the price and one dish."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, highlighting great BBQ (brisket and ribs), delicious root beer, and good sides, despite a dislike for cafeteria-style ordering and one side."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative, expressing strong regret over money spent and a firm decision never to return."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Highly negative, criticizing all aspects of the food as mediocre and overpriced, with specific dishes being poor, leading to significant disappointment."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative, with food described as \"absolutely horrible\" due to poor quality and preparation, compounded by a cramped dining environment."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative, describing a creepy atmosphere, poor drink quality, and unappealing decor, with strong disdain for the clientele."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative, detailing a frustrating and dangerous experience of getting lost on poorly marked trails, leading to strong resentment."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Enthusiastically positive, praising great food, wonderful service, and a welcoming, chic atmosphere, recommending it despite being pricey."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, highlighting friendly staff, delicious food, bargain prices, and being the \"best bargain\" for spice lovers."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, praising the nice, well-organized store with helpful staff, good selection, and reasonable prices with coupons, indicating a desire to return."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, giving high praise to the \"absolute best crab salad\" and very good iced teas in a well-appointed setting, strongly recommending it."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive experience, praising delicious and generously portioned sushi, fair pricing, and a strong intent to return."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative, detailing a taxi service that was late, got lost, and caused the reviewer to miss a non-refundable class, leading to financial loss and calling it the \"worst ever.\""
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative due to a significant decline in food quality, with wrong ingredients, greasy dishes, and an overall \"truly awful\" experience, opting for a fast-food chain instead."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "Mixed to positive, noting it's \"okay\" and not the best, but definitively preferred over Denny's for breakfast."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, highlighting the unique and amazing animal-filled atmosphere that makes dining a thrilling experience, despite the food being only \"fairly decent.\""
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive experience, praising delicious food, decent prices, friendly staff, and good problem resolution, despite the place being a \"bit shabby.\""
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, with good beer and excellent service, unique beer education, and generally decent food, rating it explicitly as a 4."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "Mixed, with positive aspects like the layout and view, but significant negatives concerning drink prices and limited options, needing changes to encourage return visits."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, praising the delicious food (especially salmon and bread pudding), great atmosphere, good service, and strong intent to return."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, expressing love for the super delicious and inexpensive fro yo, with a strong desire to return."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, highlighting consistent satisfaction with the food, excellent service, and friendly staff."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Highly negative, describing a significant decline in value (higher price, smaller portion), poor service, and overall disappointment."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative due to misleading opening hours and the store being closed during advertised hours, leading to wasted time and failed attempts at service."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative, criticizing food as under-seasoned and using store-bought tortillas, leading to a decision not to return."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, praising the fun atmosphere for groups, good bar staff, and amenities, despite \"a little beat\" facilities and decent but not exceptional food."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "Mixed to negative, as it's a standard Target but negatively impacted by atrocious traffic and parking in its location."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive for delicious food and great value, but the dining room is described as \"disgusting,\" preventing a higher rating."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "Mixed to negative, with food (pizza, salads, gelato) falling short of expectations despite a cool concept, being only slightly better than a fast-food chain."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, describing an excellent dinner with wonderful food (halibut, prime rib, scalloped potatoes), declaring it the \"best ever\" and a must-return."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, calling it a \"favorite Pho\" with great food and friendly staff, and an intent to return."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Strongly negative, unimpressed by the food, specifically criticizing store-bought dressing and mushy tomatoes."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, highlighting a great time with cool atmosphere, tasty and well-priced food, awesome and attentive service, and a strong intent to return."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "Mixed, with a delicious veggie sandwich being the sole positive, but significant drawbacks due to slow service and understaffing."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Extremely negative, lamenting a significant decline in food and overall experience since franchising, calling it a \"big fat Greek disappointment.\""
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, praising the unique concept, good, tasty, and satisfying food, generous portions, and excellent customer service, with only a minor drawback of a small interior."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, highlighting the great atmosphere, cool bartender, cheap prices, awesome jukebox, and overall love for the place."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "Mixed to negative, with a positive atmosphere but significant disappointment in the value and portioning of the food, leading to a decision not to return for dining."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, describing a terrific experience with an easy donation process and praising the great staff and community benefit."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "Strongly negative due to repeated double billing issues and the necessity to dispute charges, leading to an avoidance of debit card use."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, expressing strong love for the cafe, its amazing food, and cute, artsy atmosphere."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive experience overall, praising the nice atmosphere, unique salsa bar, and several excellent dishes, despite disappointment with one specific taco."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, highlighting amazing salads and bread pudding, excellent service, and a great selection of beverages."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, praising delicious pizza, wonderful atmosphere, and divine Nutella crepes."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, praising generous portions, friendly staff, nice atmosphere, and good sandwiches."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Mixed to positive, with several \"amazing\" standout dishes, but some bland/basic items and notably slow service, though the reviewer intends to return."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, enjoying the conducive work environment, decor, music, good coffee, and friendly staff, declaring themselves a fan."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, praising the classic, cool, and classy atmosphere as the primary draw, despite the food being only \"pretty good.\""
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, highlighting a great dog park with ample space and amenities, despite minor issues with some dog owners."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, declaring it the \"best barber shop ever\" due to top-notch attention to detail."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, praising decent car wash, fair pricing, competitive gas, and a senior discount."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Highly positive, praising homemade fresh noodles and comparing them favorably to San Francisco Chinatown food."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, finding a specific item at a good price that a competitor lacked, recommending it as a worthwhile alternative."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, describing it as a great wine bar with very good food and a cozy atmosphere."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "Mixed to negative, with average food (decent omelet, bad potatoes) and slow service, leading to a recommendation to skip the place despite an appealing patio."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "Negative, suggesting the place is overpriced or overhyped for its quality by comparing it to a basic fast-casual chain."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, highlighting a great dining experience with welcoming decor, friendly staff, delicious food, good portions, and an overall excellent experience leading to a definite return."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, enjoying the charming atmosphere, good coffee, and especially the very nice staff that encourages repeat visits."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Extremely positive, expressing strong impression and calling the food amazing, huge, delicious, authentic, and a fantastic value, highly recommending it."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, highlighting the hotel as a hidden jewel with great rooms, complimentary breakfast, and good family amenities, but docking a star for a small, unimpressive pool."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive, praising the consistent cleanliness, good stock, and efficient checkout times, making it a reliable neighborhood grocery store."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "Mixed to positive, with fantastic dishes and a great atmosphere/view, but a notable negative experience with a specific dish that was resolved by staff."
+  },
+  {
+    "predicted_stars": 2,
+    "explanation": "Mixed to negative, with excellent taste and selection heavily outweighed by extremely high prices for portions, leading to a strong recommendation against buying."
+  }
+]

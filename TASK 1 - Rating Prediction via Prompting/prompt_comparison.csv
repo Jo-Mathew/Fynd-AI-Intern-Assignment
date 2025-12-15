@@ -1,0 +1,4 @@
+Prompt Type,Accuracy,JSON Validity
+direct,0.65,1.0
+few_shot,0.67,1.0
+guided,0.66,1.0
