@@ -1,4 +1,4 @@
-# Fynd-AI-Intern-Assignment
+# Fynd-AI-Intern-Assignment 1 & 2
 
 <h1>Task 1: Yelp Review Rating Prediction</h1>
 
@@ -43,4 +43,53 @@ This is the free-tier version of the model.</p>
     <li>Predictions and evaluation results are saved to CSV.</li>
     <li>The three prompting strategies were designed to improve guidance, JSON validity, and prediction accuracy.</li>
 </ul>
+
+<h1>Task 2: Two-Dashboard AI Feedback System</h1>
+
+<h2>Overview</h2>
+<p>This project implements a web-based AI feedback system with two dashboards: a public-facing User Dashboard and an internal Admin Dashboard. 
+Users can submit ratings and reviews, and AI generates responses. The Admin Dashboard provides summaries, recommended actions, and analytics.</p>
+
+<h2>Dashboards</h2>
+<ul>
+    <li><strong>User Dashboard:</strong> Users can select a star rating, write a review, submit it, and receive an AI-generated response. 
+        <br>Access it here: <a href="https://huggingface.co/spaces/Jo-Mathew/user-reviews-dashboard" target="_blank">User Dashboard Link</a>
+    </li>
+    <li><strong>Admin Dashboard:</strong> Admins can view all submissions live, including user ratings, reviews, AI-generated summaries, and recommended actions. Analytics are also provided. 
+        <br>Access it here: <a href="https://huggingface.co/spaces/Jo-Mathew/admin-feedback-dashboard" target="_blank">Admin Dashboard Link</a>
+    </li>
+</ul>
+
+<h2>Model Used</h2>
+<p>The system uses <strong>Gemini 2.5 Flash</strong> from Google GenAI to:</p>
+<ul>
+    <li>Generate AI responses for users</li>
+    <li>Summarize user feedback</li>
+    <li>Suggest recommended actions for business owners</li>
+</ul>
+
+
+<h2>Data Storage</h2>
+<p>All feedback is stored in a shared Google Sheet that both dashboards read and write to. This ensures real-time synchronization between User and Admin dashboards.</p>
+
+
+<h2>Setup Instructions</h2>
+<ol>
+    <li>Clone the repository.</li>
+    <li>Create a <code>.env</code> file with your GenAI API key and Google service account JSON:
+        <pre>
+GEMINI_API_KEY=your_key_here
+GOOGLE_CREDS_JSON='{"type": "service_account", ... }'
+        </pre>
+    </li>
+    <li>Install dependencies:
+        <pre>pip install streamlit pandas google-genai gspread oauth2client python-dotenv</pre>
+    </li>
+    <li>Run the User Dashboard:
+        <pre>streamlit run app_user.py</pre>
+    </li>
+    <li>Run the Admin Dashboard:
+        <pre>streamlit run app_admin.py</pre>
+    </li>
+</ol>
 
