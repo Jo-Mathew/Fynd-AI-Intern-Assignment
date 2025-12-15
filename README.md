@@ -11,6 +11,7 @@
     <li><strong>Few-Shot Prompt:</strong> Example reviews with ratings are provided before predicting new reviews.</li>
     <li><strong>Guided Prompt:</strong> The model first assesses sentiment, maps it to a star rating, and provides a brief explanation.</li>
 </ul>
+<img width="1122" height="483" alt="image" src="https://github.com/user-attachments/assets/b7876e13-aefb-4b78-9a8a-6a627be23355" />
 
 <h2>Evaluation Results</h2>
 <p>Accuracy and JSON validity for each prompting approach:</p>
