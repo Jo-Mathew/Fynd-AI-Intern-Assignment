@@ -5,14 +5,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Task 1 - Yelp Review Rating Prediction</title>
-    <style>
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
 </head>
 <body>
     <h1>Task 1: Yelp Review Rating Prediction</h1>
@@ -20,52 +12,15 @@
     <h2>Overview</h2>
     <p>Predict Yelp review ratings (1–5 stars) using LLM prompting. Three prompt types were implemented and evaluated on 100 sampled reviews.</p>
 
-    <h2>Prompt Types</h2>
-
-    <h3>1. Direct Prompt</h3>
-    <pre><code>
-You are a Yelp review rating classifier.
-Predict a star rating (1–5) for each review.
-Output only valid JSON:
-[
-  {"predicted_stars":4,"explanation":"Brief reasoning"}
-]
-Reviews:
-1. "Sample review..."
-2. "Sample review..."
-    </code></pre>
-
-    <h3>2. Few-Shot Prompt</h3>
-    <pre><code>
-You are a Yelp review rating classifier.
-Examples:
-Review: "Terrible service."
-Output: {"predicted_stars":1,"explanation":"Negative experience."}
-Review: "Amazing food."
-Output: {"predicted_stars":5,"explanation":"Very positive."}
-Now classify the following reviews:
-[
-  {"predicted_stars":4,"explanation":"Brief reasoning"}
-]
-Reviews:
-1. "Sample review..."
-2. "Sample review..."
-    </code></pre>
-
-    <h3>3. Guided Prompt</h3>
-    <pre><code>
-You are a Yelp review rating classifier.
-1. Assess sentiment (negative/mixed/positive)
-2. Map sentiment to 1–5 stars
-3. Provide brief explanation
-Output JSON only:
-[
-  {"predicted_stars":3,"explanation":"Mixed sentiment"}
-]
-Reviews:
-1. "Sample review..."
-2. "Sample review..."
-    </code></pre>
+    <h2>Prompting Approach</h2>
+    <p>
+        Three prompting strategies were used:
+        <ul>
+            <li><strong>Direct Prompt:</strong> Ask the model to predict the rating for each review directly, with JSON output.</li>
+            <li><strong>Few-Shot Prompt:</strong> Provide examples of reviews with ratings before asking the model to classify new reviews.</li>
+            <li><strong>Guided Prompt:</strong> Ask the model to assess sentiment first, map it to a star rating, and give a brief explanation.</li>
+        </ul>
+    </p>
 
     <h2>Results</h2>
     <table border="1" cellpadding="5">
@@ -86,6 +41,8 @@ Reviews:
     <ul>
         <li>Sampled 100 reviews due to free-tier API limits.</li>
         <li>Predictions and evaluation results are saved to CSV.</li>
+        <li>Prompting approaches were designed to improve model guidance and JSON reliability.</li>
     </ul>
 </body>
 </html>
+
