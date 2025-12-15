@@ -5,6 +5,10 @@
 <h2>Overview</h2>
 <p>This project predicts Yelp review ratings (1–5 stars) using large language model prompting. Three prompting strategies were designed and evaluated on a sample of 100 reviews.</p>
 
+<h2>Model Used</h2>
+<p>The task uses the <strong>Gemini 2.5 Flash</strong> model from Google GenAI for predicting Yelp review ratings via prompting. 
+This is the free-tier version of the model.</p>
+
 <h2>Prompting Approach</h2>
 <ul>
     <li><strong>Direct Prompt:</strong> The model predicts ratings directly from reviews with JSON output.</li>
