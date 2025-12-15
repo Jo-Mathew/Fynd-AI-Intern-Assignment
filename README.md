@@ -34,7 +34,7 @@ This is the free-tier version of the model.</p>
     <li>Install dependencies:
         <pre>pip install pandas python-dotenv google-genai</pre>
     </li>
-    <li>Run the notebook: <code>Task1_Yelp_Prompting.ipynb</code></li>
+    <li>Run the notebook: <code>Task_1_Python_Notebook.ipynb</code></li>
 </ol>
 
 <h2>Notes</h2>
